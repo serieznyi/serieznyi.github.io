@@ -1,0 +1,92 @@
+main_skils:
+  - phpstorm
+  - php7
+  - docker
+  - ansible
+  - git
+  - nginx
+  - ubuntu
+
+skills:
+  - key: ubuntu
+    name: Ubuntu 16
+    tag: os
+    icon: icon-linux
+
+  - key: docker
+    name: Docker
+    site: https://docker.io
+    tag: tech
+
+  - key: php5.6
+    name: PHP 5.6
+    site: https://php.net
+    tag: language
+
+  - key: php7
+    name: PHP 7
+    site: https://php.net
+    tag: language
+
+  - key: mysql
+    name: MySQL
+    tag: database
+
+  - key: mongodb
+    name: MongoDB
+    tag: database
+
+  - key: yii1
+    name: Yii Framework
+    tag: framework
+
+  - key: yii2
+    name: Yii2 Framework
+    tag: framework
+
+  - key: postgressql
+    name: PostgresSQL
+    tag: database
+
+  - key: teamcity
+    name: TeamCity
+
+work:
+  - company: Dooglys
+    date:
+      - from: 2016 June
+        to: now
+    skills:
+      - docker
+      - postgressql
+      - teamcity
+      - ansible
+      - php7
+      - python
+
+  - company: ICC
+    date:
+      - from: 2014 November
+        to: 2016 June
+    skills:
+      - docker
+      - php5.6
+      - mysql
+      - yii1
+      - yii2
+
+  - company: some dude
+    date: ? - 2014 November
+    skills:
+     - kohana
+
+contacts:
+  - type: Vkontakte
+    value: vk.com/serieznyi
+    icon: icon-vk
+  - type: Email
+    value: serieznyi@github.com
+    icon: icon-envelope
+  - type: Github
+    value: https://github.com/serieznyi
+    icon: icon-github-sign
